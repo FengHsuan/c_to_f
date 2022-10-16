@@ -1,1 +1,1 @@
-# c_to_f
+# this is a coding of converting temperatures in degrees Celsius to Fahrenheit.
